@@ -6,8 +6,8 @@
 
 body {
 	background: #333;
-	/*Removing scrollers*/
-	overflow: hidden;
+	/*Removing x-scrollers*/
+	overflow-x: hidden;
 	/*A high perspective to give the UL an isometric look*/
 	perspective: 3000;
 }
