@@ -29,8 +29,15 @@ h2 {
 a {
 	color: #fff;
 	display: inline-block;
-	font: 30px 'Open Sans';
+	font: 23px 'Open Sans';
 	text-decoration: none;
+}
+
+.nav {
+	position: fixed;
+	top: 8%;
+	right: 6%;
+	list-style: none;
 }
 
 .grid {
